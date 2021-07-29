@@ -1,4 +1,4 @@
-[
+{"trucks":[
    {
       "alias":"Thomnya",
       "animationsPathsUrls":[
@@ -193,3 +193,4 @@
       "name":"Large"
    }
 ]
+}
